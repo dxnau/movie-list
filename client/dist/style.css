@@ -1,3 +1,21 @@
 body {
   font-family: sans-serif, arial;
 }
+
+.title {
+  font-weight: bold;
+  font-size: x-large;
+}
+
+/* .movie-list {
+  border-style: dashed;
+} */
+
+.movie-list-entry {
+  border-style: solid;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+
+}
